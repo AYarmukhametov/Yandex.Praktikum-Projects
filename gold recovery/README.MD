@@ -7,7 +7,7 @@
 
 Когда добытая руда проходит первичную обработку, получается дроблёная смесь. Её отправляют на флотацию (обогащение) и двухэтапную очистку.
 
-![Техпроцесс](https://github.com/AYarmukhametov/Gold-recovery/blob/main/tech%20process.jpg?raw=true)
+![Техпроцесс](https://github.com/AYarmukhametov/Yandex.Praktikum-Projects/blob/main/gold%20recovery/tech%20process.jpg?raw=true)
 
 ## 1. Флотация
 
@@ -60,7 +60,7 @@
 
 Нужно смоделировать процесс восстановления золота из золотосодержащей руды. Эффективность обогащения рассчитывается по формуле:
 
-![Формула восстановления золота](https://github.com/AYarmukhametov/Gold-recovery/blob/main/formula.jpg?raw=true)
+![Формула восстановления золота](https://github.com/AYarmukhametov/Yandex.Praktikum-Projects/blob/main/gold%20recovery/formula.jpg?raw=true)
 
 где:
 
@@ -76,7 +76,7 @@
 
 Метрика sMAPE вычисляется так:
 
-![sMape](https://github.com/AYarmukhametov/Gold-recovery/blob/main/smape.jpg?raw=true)
+![sMape](https://github.com/AYarmukhametov/Yandex.Praktikum-Projects/blob/main/gold%20recovery/smape.jpg?raw=true)
 
 Нужно спрогнозировать сразу две величины:
 
@@ -85,4 +85,4 @@
 
 Итоговая метрика складывается из двух величин:
 
-![Финальная sMAPE](https://github.com/AYarmukhametov/Gold-recovery/blob/main/final_smape.jpg?raw=true)
+![Финальная sMAPE](https://github.com/AYarmukhametov/Yandex.Praktikum-Projects/blob/main/gold%20recovery/final_smape.jpg?raw=true)
