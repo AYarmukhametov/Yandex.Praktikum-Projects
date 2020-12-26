@@ -4,6 +4,6 @@
 
 **Результат**: метрика достигнута.
 
-**Стек**: pandas, numpy, sklearn, lightgbm.
+**Стек**: pandas, numpy, sklearn, lightgbm, statsmodels.
 
 **Статус**: проект окончен.
